@@ -109,7 +109,7 @@ def main(steps, uid):
 
 if __name__ == '__main__':
 
-    steps = 3298
+    steps = 999999
 
     uid = '39836643'
 
