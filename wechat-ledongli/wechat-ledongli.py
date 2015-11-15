@@ -1,4 +1,4 @@
-#coding: utf-8
+# -*- coding: UTF-8 -*-
 
 #date: 刷微信步数
 
