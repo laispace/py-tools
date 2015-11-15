@@ -1,6 +1,5 @@
 # -*- coding: UTF-8 -*-
 
-#date: 刷微信步数
 
 #usage: edit steps and ledongli's uid(u need to download this app) .That would be ok .Good luck. ^_^
 
@@ -106,7 +105,7 @@ def main(steps, uid):
 
     print(r.text)
 
-    print('装逼成功')
+    print('success')
 
 if __name__ == '__main__':
 
